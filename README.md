@@ -1,16 +1,28 @@
-## Hi there 👋
+## 你好，我是 Vicky文奇 👋
 
-<!--
-**vickywenqi/vickywenqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+有 **15w 粉丝**的自媒体人，在认真分享成长认知和搞钱技能。
 
-Here are some ideas to get you started:
+**公众号：文奇不惑**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 vicky-writer — 公众号爆文写作 AI Skill
+
+我把自己写公众号爆文的方法论，做成了一个开源的 AI Skill。
+
+> 基于真实写作经验 + 5篇100%朱雀人工认证样本迭代，帮你写出过检测、能传播的好内容。
+
+👉 [安装 vicky-writer →](https://github.com/vickywenqi/vicky-skills)
+
+### ✨ 特点
+
+- 基于 **76篇实战爆文** 逆向拆解
+- 通过 **朱雀AI检测**（人工特征 >90%）
+- 支持 **Claude Code / Codex / WorkBuddy / OpenClaw** 多平台安装
+- MIT 开源协议，免费使用
+
+---
+
+**AI是放大认知的杠杆，是积累复利的资产。**
+
+边做，边分享，边迭代。
